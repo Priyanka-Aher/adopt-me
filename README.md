@@ -1,2 +1,2 @@
-# adopt-me
+# adopt-me-ssr
 Practice project

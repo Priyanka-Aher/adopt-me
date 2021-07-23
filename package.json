@@ -1,5 +1,5 @@
 {
-  "name": "adopt-me",
+  "name": "adopt-me-ssr",
   "version": "1.0.0",
   "description": "Practice project",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Priyanka-Aher/adopt-me.git"
+    "url": "git+https://github.com/Priyanka-Aher/adopt-me-ssr.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Priyanka-Aher/adopt-me/issues"
+    "url": "https://github.com/Priyanka-Aher/adopt-me-ssr/issues"
   },
-  "homepage": "https://github.com/Priyanka-Aher/adopt-me#readme",
+  "homepage": "https://github.com/Priyanka-Aher/adopt-me-ssr#readme",
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/eslint-parser": "^7.13.4",
